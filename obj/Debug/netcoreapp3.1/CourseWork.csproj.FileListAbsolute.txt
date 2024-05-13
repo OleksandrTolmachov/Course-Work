@@ -1,0 +1,13 @@
+E:\Learnings\CourseWork\CourseWork\bin\Debug\netcoreapp3.1\CourseWork.exe
+E:\Learnings\CourseWork\CourseWork\bin\Debug\netcoreapp3.1\CourseWork.deps.json
+E:\Learnings\CourseWork\CourseWork\bin\Debug\netcoreapp3.1\CourseWork.runtimeconfig.json
+E:\Learnings\CourseWork\CourseWork\bin\Debug\netcoreapp3.1\CourseWork.runtimeconfig.dev.json
+E:\Learnings\CourseWork\CourseWork\bin\Debug\netcoreapp3.1\CourseWork.dll
+E:\Learnings\CourseWork\CourseWork\bin\Debug\netcoreapp3.1\CourseWork.pdb
+E:\Learnings\CourseWork\CourseWork\obj\Debug\netcoreapp3.1\CourseWork.GeneratedMSBuildEditorConfig.editorconfig
+E:\Learnings\CourseWork\CourseWork\obj\Debug\netcoreapp3.1\CourseWork.AssemblyInfoInputs.cache
+E:\Learnings\CourseWork\CourseWork\obj\Debug\netcoreapp3.1\CourseWork.AssemblyInfo.cs
+E:\Learnings\CourseWork\CourseWork\obj\Debug\netcoreapp3.1\CourseWork.csproj.CoreCompileInputs.cache
+E:\Learnings\CourseWork\CourseWork\obj\Debug\netcoreapp3.1\CourseWork.dll
+E:\Learnings\CourseWork\CourseWork\obj\Debug\netcoreapp3.1\CourseWork.pdb
+E:\Learnings\CourseWork\CourseWork\obj\Debug\netcoreapp3.1\CourseWork.genruntimeconfig.cache
